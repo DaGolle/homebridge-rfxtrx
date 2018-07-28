@@ -1,0 +1,32 @@
+{
+  "name": "homebridge-pirf",
+  "description": "RFXCOM RFXtrx433e plugin for homebridge: https://github.com/nfarina/homebridge",
+  "author": "DaGolle",
+  "license": "ISC",
+  "version": "0.0.1",
+  "keywords": [
+    "homebridge-plugin",
+    "homekit",
+    "rfxcom",
+    "RFXtrx433e"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "rfxcom": "^1.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DaGolle/homebridge-rfxtrx.git"
+  },
+  "bugs": {
+    "url": "http://github.com/DaGolle/homebridge-rfxtrx/issues"
+  },
+  "homepage": "https://github.com/DaGolle/homebridge-rfxtrx#readme"
+}
