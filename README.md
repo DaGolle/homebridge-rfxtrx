@@ -10,7 +10,7 @@ http://www.rfxcom.com/epages/78165469.sf/en_GB/?ViewObjectPath=%2FShops%2F781654
 
 ### Tested with the following devices:
 * [Brel curtain motors](https://www.brel-motors.nl/webshop/gordijnrailsysteem/)
-* [Oase InScenio FM-Master 3](https://www.oase-livingwater.com/nl_BE/water-tuin/producten/p/inscenio-fm-master-3.1000079799.html)
+* [Oase InScenio FM-Master 3](https://www.oase-livingwater.com/nl_BE/water-tuin/producten/p/inscenio-fm-master-3.1000079799.html) (special RFXCOM firmware required)
 
 ### Example config.json
 ```JSON
