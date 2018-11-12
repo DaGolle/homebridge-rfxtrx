@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-pirf",
+  "name": "homebridge-rfxtrx",
   "description": "RFXCOM RFXtrx433e plugin for homebridge: https://github.com/nfarina/homebridge",
   "author": "DaGolle",
   "license": "ISC",
