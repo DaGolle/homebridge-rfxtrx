@@ -1,7 +1,7 @@
 # homebridge-rfxtrx
 ## Homebridge RFXCOM RFXtrx433e plugin
 
-The tranceiver details van be found here:
+The tranceiver details can be found here:
 http://www.rfxcom.com/epages/78165469.sf/en_GB/?ViewObjectPath=%2FShops%2F78165469%2FProducts%2F14103
 
 ### Currently supports the following Homebridge accessory types:
@@ -30,7 +30,20 @@ http://www.rfxcom.com/epages/78165469.sf/en_GB/?ViewObjectPath=%2FShops%2F781654
       "type": "Blinds1",
       "subtype": "BLINDS_T6",
       "deviceID": "0x1234567/1",
-      "time": 4000
+      "orientation": "horizontal",
+      "duration": 4000
+    },
+    {
+      "name": "RFXCOM Shade 1",
+      "manufacturer": "Somfy",
+      "model": "RTS",
+      "serialNumber": "rfxshade1",
+      "type": "Rfy",
+      "subtype": "RFY",
+      "deviceID": "0x012a03/1",
+      "orientation": "vertical",
+      "duration_up": 4000,
+      "duration_down": 3000,
     }
   ],
   "outlets": [
